@@ -43,7 +43,6 @@ To create the solid model from given drawing and section the solid model
 
 
 ## OUTPUT: 
-![Uploading Re4.2 ctr.png…]()
 
 ## RESULT:
 Thus, the cut section for solid model is created.
